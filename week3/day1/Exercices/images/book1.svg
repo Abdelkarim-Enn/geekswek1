@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 220" role="img" aria-labelledby="title desc">
+    <title id="title">Harry Potter book cover</title>
+    <desc id="desc">A burgundy book cover with gold lettering and a lightning bolt.</desc>
+    <rect width="150" height="220" fill="#6f1d1b"/>
+    <rect x="8" y="8" width="134" height="204" fill="none" stroke="#e3b64c" stroke-width="3"/>
+    <text x="75" y="52" text-anchor="middle" fill="#e3b64c" font-family="Georgia, serif" font-size="15" font-weight="bold">HARRY</text>
+    <text x="75" y="72" text-anchor="middle" fill="#e3b64c" font-family="Georgia, serif" font-size="15" font-weight="bold">POTTER</text>
+    <path d="M82 90 L68 128 L82 128 L72 160 L100 118 L86 118 L98 90 Z" fill="#e3b64c"/>
+    <text x="75" y="190" text-anchor="middle" fill="#f3dfb0" font-family="Georgia, serif" font-size="8">J.K. ROWLING</text>
+</svg>

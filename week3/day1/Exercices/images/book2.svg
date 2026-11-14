@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 220" role="img" aria-labelledby="title desc">
+    <title id="title">The Hobbit book cover</title>
+    <desc id="desc">A deep green book cover with gold mountains and lettering.</desc>
+    <rect width="150" height="220" fill="#1f4b3a"/>
+    <rect x="8" y="8" width="134" height="204" fill="none" stroke="#d8b45a" stroke-width="3"/>
+    <text x="75" y="52" text-anchor="middle" fill="#e8cd86" font-family="Georgia, serif" font-size="16" font-weight="bold">THE</text>
+    <text x="75" y="76" text-anchor="middle" fill="#e8cd86" font-family="Georgia, serif" font-size="18" font-weight="bold">HOBBIT</text>
+    <path d="M20 160 L52 105 L76 145 L96 112 L130 160 Z" fill="#d8b45a"/>
+    <path d="M20 168 L150 168" stroke="#d8b45a" stroke-width="3"/>
+    <text x="75" y="194" text-anchor="middle" fill="#e8cd86" font-family="Georgia, serif" font-size="8">J.R.R. TOLKIEN</text>
+</svg>
