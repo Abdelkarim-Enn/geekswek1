@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640" role="img" aria-labelledby="title desc">
+    <title id="title">Form Audio hero headphones</title>
+    <desc id="desc">Graphite over-ear headphones with orange ear cushions floating over a large warm orange circle.</desc>
+
+    <defs>
+        <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+            <stop offset="0" stop-color="#f08a55"/>
+            <stop offset="1" stop-color="#d9481f"/>
+        </linearGradient>
+        <linearGradient id="cup" x1="0" y1="0" x2="0" y2="1">
+            <stop offset="0" stop-color="#33322f"/>
+            <stop offset="1" stop-color="#121110"/>
+        </linearGradient>
+        <linearGradient id="band" x1="0" y1="0" x2="1" y2="0">
+            <stop offset="0" stop-color="#2a2927"/>
+            <stop offset="0.5" stop-color="#3b3a36"/>
+            <stop offset="1" stop-color="#1d1c1a"/>
+        </linearGradient>
+    </defs>
+
+    <circle cx="320" cy="316" r="292" fill="url(#bg)"/>
+    <ellipse cx="320" cy="545" rx="200" ry="26" fill="#8f2b10" opacity="0.35"/>
+
+    <path d="M156 336 C156 148 484 148 484 336" fill="none" stroke="url(#band)" stroke-width="48" stroke-linecap="round"/>
+    <path d="M182 330 C182 176 458 176 458 330" fill="none" stroke="#4b4944" stroke-width="10" stroke-linecap="round" opacity="0.75"/>
+
+    <path d="M166 306 v100" stroke="#1a1917" stroke-width="30" stroke-linecap="round"/>
+    <path d="M474 306 v100" stroke="#1a1917" stroke-width="30" stroke-linecap="round"/>
+
+    <rect x="82" y="336" width="144" height="188" rx="66" fill="url(#cup)"/>
+    <rect x="414" y="336" width="144" height="188" rx="66" fill="url(#cup)"/>
+
+    <rect x="100" y="356" width="108" height="148" rx="52" fill="#e4572e"/>
+    <rect x="432" y="356" width="108" height="148" rx="52" fill="#e4572e"/>
+
+    <rect x="120" y="376" width="68" height="108" rx="34" fill="#f28c60" opacity="0.55"/>
+    <rect x="452" y="376" width="68" height="108" rx="34" fill="#f28c60" opacity="0.55"/>
+
+    <circle cx="154" cy="430" r="7" fill="#ffd9c7" opacity="0.7"/>
+    <circle cx="486" cy="430" r="7" fill="#ffd9c7" opacity="0.7"/>
+</svg>
